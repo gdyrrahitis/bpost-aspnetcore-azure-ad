@@ -1,2 +1,2 @@
 # ASP.NET Core 2.0 Azure Active Directory
-TODO ADD LINK HERE
+https://wp.me/p7uERY-ib
